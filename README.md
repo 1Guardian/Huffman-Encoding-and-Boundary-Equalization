@@ -5,7 +5,7 @@ This project implements a very simple compression method for an image, and it ex
 This project implements an extended version of my tkinter UI to allow a region selection, with histogram equalization being applied in the specified area. The second portion of this project implements a simple huffman encoder via binary trees. Once an image is encoded, the compression ratio is computed, and the entropy estimation vs the actual average is also shown.
 
 ## Usage:
-###Huffman Encoder:
+### Huffman Encoder:
 <pre>
 python huffman.py -h -t -i imagefile
             -i : image file that you want to work on
@@ -13,7 +13,7 @@ python huffman.py -h -t -i imagefile
             </pre>
 
 <br>
-###Tkinter Area Selector:
+### Tkinter Area Selector:
 <pre>
 python highlight.py -h -t -b -i imagefile
             -i : image file that you want to work on
