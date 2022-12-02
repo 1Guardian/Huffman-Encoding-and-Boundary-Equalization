@@ -11,7 +11,6 @@ python huffman.py -h -t -i imagefile
             -i : image file that you want to work on
             -t : whether or not to generate a thresholded image (8 levels)
             </pre>
-
 <br>
 Tkinter Area Selector:
 <pre>
